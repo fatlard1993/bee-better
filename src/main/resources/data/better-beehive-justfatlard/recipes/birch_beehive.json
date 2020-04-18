@@ -6,8 +6,8 @@
     "PPP"
   ],
   "key": {
-    "P": { "item": "minecraft:oak_planks" },
+    "P": { "item": "minecraft:birch_planks" },
     "H": { "item": "minecraft:honeycomb" }
   },
-  "result": { "item": "minecraft:beehive" }
+  "result": { "item": "better-beehive-justfatlard:birch_beehive" }
 }

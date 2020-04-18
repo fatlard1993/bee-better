@@ -1,41 +1,35 @@
 
 {
   "schemaVersion": 1,
-  "id": "beebetter",
+  "id": "better-beehive-justfatlard",
   "version": "${version}",
-
-  "name": "Bee Better",
-  "description": "Simple mod that focuses on improving bees!",
+  "name": "Better Beehive",
+  "description": "All the wooden beehives, an iron apiary, and a hive analyzer",
   "authors": [
-    "Draylar",
-    "Shnupbups"
+    "fatlard1993"
   ],
-  "contributors": [
-    "Yoghurt4C"
-  ],
+  "contributors": [],
   "contact": {
-    "homepage": "https://www.curseforge.com/minecraft/mc-mods/better-bees",
-    "sources": "https://github.com/Draylar/better-bees"
+    "homepage": "",
+    "sources": ""
   },
-
   "license": "MIT",
-  "icon": "assets/beebetter/icon.png",
-
+  "icon": "assets/better-beehive-justfatlard/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.github.draylar.beebetter.BeeBetter"
-    ],
-    "client": [
-      "com.github.draylar.beebetter.BeeBetterClient"
+      "justfatlard.better_beehive.BetterBeehive"
     ]
   },
   "mixins": [
-    "beebetter.mixins.json"
+    "better-beehive-justfatlard.mixins.json"
   ],
-
   "depends": {
-    "fabricloader": ">=0.4.0",
-    "fabric": "*"
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.15.x"
+  },
+  "suggests": {
+    "flamingo": "*"
   }
 }

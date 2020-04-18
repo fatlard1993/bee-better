@@ -1,0 +1,24 @@
+{
+  "block.better-beehive-justfatlard.apiary": "Apiary",
+  "block.better-beehive-justfatlard.spruce_beehive": "Spruce Beehive",
+  "block.better-beehive-justfatlard.birch_beehive": "Birch Beehive",
+  "block.better-beehive-justfatlard.jungle_beehive": "Jungle Beehive",
+  "block.better-beehive-justfatlard.acacia_beehive": "Acacia Beehive",
+  "block.better-beehive-justfatlard.dark_oak_beehive": "Dark Oak Beehive",
+
+	"item.better-beehive-justfatlard.hive_analyzer": "Hive Analyzer",
+
+	"text.better-beehive-justfatlard.wild_nest": "It's too difficult to analyze this wild Nest. Perhaps if you constructed a Hive yourself?",
+  "text.better-beehive-justfatlard.restless_bees": "There's at least one Bee inside, but they seem restless. Maybe some smoke could calm them?",
+  "text.better-beehive-justfatlard.no_bees_inside": "It doesn't seem like there are any Bees inside.",
+  "text.better-beehive-justfatlard.one_bee_inside": "There seems to be a single Bee inside.",
+  "text.better-beehive-justfatlard.filled_with_bees_inside": "It seems to be absolutely buzzing with Bees inside.",
+  "text.better-beehive-justfatlard.multiple_bees_inside": "There seems to be multiple Bees inside.",
+  "text.better-beehive-justfatlard.no_honey_inside": "There doesn't seem to be any Honey inside.",
+  "text.better-beehive-justfatlard.filled_with_honey_inside": "The Hive is dripping with Honey.",
+  "text.better-beehive-justfatlard.almost_enough_honey_inside": "There seems to be almost enough Honey to fill a Bottle.",
+  "text.better-beehive-justfatlard.enough_honey_inside": "There's enough Honey to fill a Bottle, but it seems the Hive can hold more.",
+  "text.better-beehive-justfatlard.some_honey_inside": "There seems to be a little bit of Honey inside.",
+
+  "block.minecraft.beehive": "Oak Beehive"
+}

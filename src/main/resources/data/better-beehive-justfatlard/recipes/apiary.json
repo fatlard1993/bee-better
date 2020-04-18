@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#c#",
+    "#f#",
+    "#c#"
+  ],
+  "key": {
+    "#": { "item": "minecraft:iron_block" },
+    "f": { "tag": "better-beehive-justfatlard:wooden_beehives" },
+    "c":{ "item": "minecraft:honeycomb" }
+  },
+  "result": { "item": "better-beehive-justfatlard:apiary" }
+}

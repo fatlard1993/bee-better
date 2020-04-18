@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "justfatlard.better_beehive.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BeeAccessor",
+    "BeehiveMixin",
+    "BeeMixin",
+    "BlockEntityTypeMixin",
+    "IdentifierMixin",
+    "PointOfInterestTypeAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

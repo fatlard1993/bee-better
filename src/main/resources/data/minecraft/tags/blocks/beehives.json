@@ -1,8 +1,11 @@
 {
-  "replace": false,
-  "values": [
-    "beebetter:apiary",
-    "#beebetter:wooden_beehives",
-    "beebetter:bee_bricks"
-  ]
+	"replace": false,
+	"values": [
+		"better-beehive-justfatlard:apiary",
+		"better-beehive-justfatlard:acacia_beehive",
+		"better-beehive-justfatlard:birch_beehive",
+		"better-beehive-justfatlard:dark_oak_beehive",
+		"better-beehive-justfatlard:jungle_beehive",
+		"better-beehive-justfatlard:spruce_beehive"
+	]
 }
